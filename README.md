@@ -1,6 +1,6 @@
 # whatsappclone
 
-What&#x27;s APP Clone
+A whatsapp clone made using flutter
 
 ## Getting Started
 
